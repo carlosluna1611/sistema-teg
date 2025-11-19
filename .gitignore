@@ -1,0 +1,15 @@
+# Compiled class files
+/build/
+/dist/
+/nbproject/private/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.log
+*.tmp
+
+# Others
+*.class
