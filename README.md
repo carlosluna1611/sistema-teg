@@ -1,5 +1,7 @@
 # Sistema de Gestión de Trabajos Especiales de Grado (TEG)
 
+![Contributors](https://img.shields.io/badge/contributors-Carlos%20Luna%20%26%20Kevin%20Montilla-blue)
+
 Plataforma de escritorio desarrollada en **Java** para la gestión administrativa de los Trabajos Especiales de Grado (TEG). Permite a los usuarios con rol de administrador realizar un control completo sobre los TEGs, desde su registro inicial hasta la consulta de éstos.
 
 ---
