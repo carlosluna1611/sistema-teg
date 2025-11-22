@@ -2,7 +2,7 @@
 
 Plataforma de escritorio desarrollada en **Java** para la gestión administrativa de los Trabajos Especiales de Grado (TEG). Permite a los usuarios con rol de administrador realizar un control completo sobre los TEGs, desde su registro inicial hasta la consulta de éstos.
 
-
+<img src="graficos/Interfaz.gif" alt="Interfaz Principal" width="700"/>
 
 ## Características Principales
 
@@ -28,6 +28,7 @@ sistema-teg/
 ├── database/        # Archivo teg.sql con la estructura de la base de datos
 ├── lib/             # Librerías (Drivers JDBC, etc.)
 ├── nbproject/       # Configuraciones de NetBeans
+├── screenshots/     # Capturas de pantalla para la documentación (README)
 ├── src/             # Código fuente en Java (.java)
 ├── .gitignore       # Archivo de ignorados de Git
 └── README.md        # Documentación del sistema
@@ -73,7 +74,7 @@ Ejecuta el archivo principal (Main.java o similar dentro de src).
 
 - **Clave:** 1234
 
-
+<img src="graficos/Login.png" alt="Interfaz Principal" width="700"/>
 
 ## Historial del Proyecto
 Fecha de Realización: Abril del 2024.
